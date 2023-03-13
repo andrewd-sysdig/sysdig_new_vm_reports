@@ -14,13 +14,13 @@ This script will create a CSV and JSON file in the local directory the script is
 * Workload
 * Image
 * Policy Result
-* # of Exploit Count
-* # of Critical In Use Vulnerabilities
-* # of High In Use Vulnerabilities
-* # of Medium In Use Vulnerabilities
-* # of Critical Vulnerabilities
-* # of High  Vulnerabilities
-* # of Medium  Vulnerabilities
+* No. of Exploit Count
+* No. of Critical In Use Vulnerabilities
+* No. of High In Use Vulnerabilities
+* No. of Medium In Use Vulnerabilities
+* No. of Critical Vulnerabilities
+* No. of High  Vulnerabilities
+* No. of Medium  Vulnerabilities
 
 ## Example Usage & Output
 ```
